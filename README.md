@@ -8,6 +8,4 @@ First Task | Second Task
 ----------  | -------------
 Copy the content from here | Paste it where u want to paste
 
-#1
-mojombo#1
-mojombo/github-flavored-markdown#1
+@anamikarec
