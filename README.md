@@ -1,2 +1,1 @@
-# coursera-test
-coursera test repository
+This is the file of coursera.
