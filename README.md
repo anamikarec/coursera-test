@@ -8,4 +8,5 @@ First Task | Second Task
 ----------  | -------------
 Copy the content from here | Paste it where u want to paste
 
-:smile:
+:smile: :smile: :laughing:
+:satisfied: :slightly_smiling_face:	
